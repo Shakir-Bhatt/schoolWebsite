@@ -11,9 +11,16 @@
 |
 */
 
-Route::get('/', function () {
-    return view('layouts.frontend');
-});
+// Route::get('/', function () {
+//     return view('layouts.frontend');
+// });
+
+# FrontEnd Routes
+
+Route('/',[
+	'as'	=>	'home',
+	'uses'	=>	'FrontEnd\FrontEndController@index'
+]);
 
 Auth::routes();
 

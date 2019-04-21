@@ -38,7 +38,7 @@
     <!-- Wrapper Start -->
     <div class="wrapper">
         <!-- Header Section Start -->
-        @include('frontend_blades.header')
+        @include('frontend.includes.header')
         <!-- Header Section End -->
         <!-- Slider Section Start -->
         <section class="slider-area">
@@ -157,7 +157,7 @@
         </section>
         <!-- Call To Action End -->
         <!-- Footer Section Start -->
-        @include('frontend_blades.footer')
+        @include('frontend.includes.footer')
         <!-- Footer Section End -->
     </div>
     <!-- Wrapper Start -->
