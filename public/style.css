@@ -1,0 +1,16 @@
+/* Google fonts
+========================== */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400');
+
+/* css files
+====================== */
+@import url('css/bootstrap.min.css');
+@import url('css/material-design-iconic-font.min.css');
+@import url('css/custom-animate.css');
+@import url('css/slick.min.css');
+@import url('css/swiper.min.css');
+@import url('css/venobox.css');
+@import url('css/progressbar.css');
+@import url('css/style.css');
+@import url('css/responsive.css');
